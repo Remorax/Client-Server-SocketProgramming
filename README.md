@@ -1,3 +1,7 @@
+# Socket Programming
+
+This repository contains a sample code to basic client-server connections, done as part of Assignment 1 of the Computer Networks course at IIIT, Hyderabad.
+
 For Problem 1:
 
 1. Go to folder P1
@@ -16,6 +20,3 @@ For Problem 2:
 7. Follow the same procedure for non persistent connections. It prints the time at the end.
 
 Non persistent connection takes slightly more time than persistent connections, this could be due to the opening of a new socket for every file.
-
-Team Members:
-20161188 Vivek Iyer
